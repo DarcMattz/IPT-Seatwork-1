@@ -1,0 +1,14 @@
+C:\Users\johnv\source\repos\IPT\IPT_Seatwork-1\obj\Debug\IPT_Seatwork-1.csproj.AssemblyReference.cache
+C:\Users\johnv\source\repos\IPT\IPT_Seatwork-1\obj\Debug\IPT_Seatwork_1.Form1.resources
+C:\Users\johnv\source\repos\IPT\IPT_Seatwork-1\obj\Debug\IPT_Seatwork_1.Form2.resources
+C:\Users\johnv\source\repos\IPT\IPT_Seatwork-1\obj\Debug\IPT_Seatwork_1.Properties.Resources.resources
+C:\Users\johnv\source\repos\IPT\IPT_Seatwork-1\obj\Debug\IPT_Seatwork-1.csproj.GenerateResource.cache
+C:\Users\johnv\source\repos\IPT\IPT_Seatwork-1\obj\Debug\IPT_Seatwork-1.csproj.CoreCompileInputs.cache
+C:\Users\johnv\source\repos\IPT\IPT_Seatwork-1\bin\Debug\IPT_Seatwork-1.exe.config
+C:\Users\johnv\source\repos\IPT\IPT_Seatwork-1\bin\Debug\IPT_Seatwork-1.exe
+C:\Users\johnv\source\repos\IPT\IPT_Seatwork-1\bin\Debug\IPT_Seatwork-1.pdb
+C:\Users\johnv\source\repos\IPT\IPT_Seatwork-1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\johnv\source\repos\IPT\IPT_Seatwork-1\obj\Debug\IPT_Seatwork_1.Form3.resources
+C:\Users\johnv\source\repos\IPT\IPT_Seatwork-1\obj\Debug\IPT_Seatwork-1.csproj.CopyComplete
+C:\Users\johnv\source\repos\IPT\IPT_Seatwork-1\obj\Debug\IPT_Seatwork-1.exe
+C:\Users\johnv\source\repos\IPT\IPT_Seatwork-1\obj\Debug\IPT_Seatwork-1.pdb
